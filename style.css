@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 300px;
+    margin: 0px auto;
+    padding: 10px;
+    background-color: darkslategrey;
+}
+
+img{
+    width: 300px;
+    height: 84.516px;
+    margin: 5px 0px;
+}
